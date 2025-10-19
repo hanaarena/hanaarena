@@ -23,7 +23,7 @@
 |Chinese (Cantonese, Yue)     |  Native               |
 |Chinese (Hokkienese)         |  Native               |
 |English                      |  Advanced             |
-|Japanese                     |  Elementary (JLPT N3) |
+|Japanese                     |  Elementary (JLPT N2) |
 
 ## Some tools I have used and learned
 <p align="left">
